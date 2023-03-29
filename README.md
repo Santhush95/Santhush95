@@ -1,4 +1,4 @@
-### Hey there 👋 I'm Santhush
+### Hey there 👋 I'm Santhush..
 
 I'm an Engineering graduate at University of Moratuwa, Sri Lanka, with about 2 years experience in Web & desktop applications, embeded systems & machine development.
 
